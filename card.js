@@ -26,9 +26,6 @@
     }
 }
 customElements.define('card-ingryd', card) */
-
-
-//
 class card extends HTMLElement {
     constructor() {
         super()
